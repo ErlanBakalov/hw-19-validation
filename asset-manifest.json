@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/http/ErlanBakalov.github.io/hw-19-validation/static/css/main.380b6cec.css",
+    "main.js": "/http/ErlanBakalov.github.io/hw-19-validation/static/js/main.9b52a653.js",
+    "index.html": "/http/ErlanBakalov.github.io/hw-19-validation/index.html",
+    "main.380b6cec.css.map": "/http/ErlanBakalov.github.io/hw-19-validation/static/css/main.380b6cec.css.map",
+    "main.9b52a653.js.map": "/http/ErlanBakalov.github.io/hw-19-validation/static/js/main.9b52a653.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.380b6cec.css",
+    "static/js/main.9b52a653.js"
+  ]
+}
